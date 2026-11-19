@@ -32,7 +32,7 @@ A simple REST API built with **Node.js**, **Express** and **MongoDB (Mongoose)**
 
 [![Watch Demo](./screenshots/video-thumbnail.png)](https://your-video-link-here)
 
-👉 **Demo Video:** [Click here to watch](https://your-video-link-here)
+👉 **Demo Video:** [Click here to watch](https://drive.google.com/file/d/1yoEwEsW4rXcT7XgXL24lLixgntC8bAHv/view?usp=sharing)
 
 ---
 
